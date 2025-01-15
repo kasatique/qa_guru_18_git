@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bed75b63-c320-4e90-998c-dacc4895a45d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SearchTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SearchTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="bed75b63-c320-4e90-998c-dacc4895a45d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +68,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Shell Script.gradlew.executor": "Run",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "new",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/PavelPC/IdeaProjects/qa guru/qa_guru_18_git",
     "node.js.detected.package.eslint": "true",
@@ -85,7 +80,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Gradle.SearchTests">
+  <component name="RunManager" selected="Gradle.SearchTests.successfulSearchTest">
     <configuration name="C:/Users/PavelPC/IdeaProjects/qa guru/qa_guru_18_git/build.gradle" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -191,10 +186,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.SearchTests.successfulSearchTest" />
         <item itemvalue="Gradle.SearchTests" />
         <item itemvalue="Gradle.qa_guru_18_git" />
         <item itemvalue="Shell Script.gradlew" />
-        <item itemvalue="Gradle.SearchTests.successfulSearchTest" />
         <item itemvalue="Gradle.C:/Users/PavelPC/IdeaProjects/qa guru/qa_guru_18_git/build.gradle" />
       </list>
     </recent_temporary>
@@ -220,11 +215,26 @@
       <workItem from="1736938367733" duration="355000" />
       <workItem from="1736938735569" duration="28000" />
       <workItem from="1736938769052" duration="854000" />
-      <workItem from="1736939659565" duration="1053000" />
+      <workItem from="1736939659565" duration="2876000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/SearchTests.java</url>
+          <line>11</line>
+          <properties class="SearchTests" method="successfulSearchTest">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
