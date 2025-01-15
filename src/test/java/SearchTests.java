@@ -9,7 +9,7 @@ import static com.codeborne.selenide.Selenide.open;
 
 public class SearchTests {
     @Test
-    void successfulSearchTestallday() {
+    void successfulSearchTests555() {
         Configuration.pageLoadStrategy = "eager";
         open("https://www.google.com/");
         $("[name=q]").setValue("selenide").pressEnter();
