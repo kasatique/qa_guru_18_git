@@ -14,5 +14,6 @@ public class SearchTests {
         open("https://www.google.com/");
         $("[name=q]").setValue("selenide").pressEnter();
         $("#search").shouldHave(text("https://ru.selenide.org"));
+        $("[id=search]").shouldHave(text("https"));
     }
 }
